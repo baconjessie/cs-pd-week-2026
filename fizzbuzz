@@ -17,4 +17,4 @@ def fizzbuzz(n):
             print(i)
 
 # Run it for the first 15 numbers
-fizzbuzz(15)
+fizzbuzz(100)
