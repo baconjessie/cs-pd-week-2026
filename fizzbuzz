@@ -1,0 +1,20 @@
+def fizzbuzz(n):
+    """
+    Prints FizzBuzz pattern for numbers 1 to n.
+    - "Fizz" for numbers divisible by 3
+    - "Buzz" for numbers divisible by 5
+    - "FizzBuzz" for numbers divisible by both
+    - The number itself otherwise
+    """
+    for i in range(1, n + 1):
+        if i % 3 == 0 and i % 5 == 0:
+            print("FizzBuzz")
+        elif i % 3 == 0:
+            print("Fizz")
+        elif i % 5 == 0:
+            print("Buzz")
+        else:
+            print(i)
+
+# Run it for the first 15 numbers
+fizzbuzz(15)
