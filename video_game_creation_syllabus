@@ -7,3 +7,18 @@ Students will submit their game they developed in a video game competition in th
 Week 1: Explore Games That Work - Genres, Strategies, Storylines, Rules
 Week 2: Game Components - Characters, Tokens, Scores, Objectives
 Week 3: Platforms - Explore Scratch, Godot, Unity
+Week 4: Project Setup & Game Loop - setting up development environments, understanding how games update and render continuously
+Week 5: Input & Controls - implementing player controls, responsive input handling, basic movement mechanics
+Week 6:  Collision Detection & Physics - basic physics, collision responses, object interactions
+Week 7: Scoring and State Management - tracking game state, score systems, win/lose conditions
+Week 8: Enemies & AI - creating non-player characters, simple enemy behavior patterns, pathfinding basics
+Week 9: Levels & Progressions - designing level structure, difficulty curves, level transitions
+Week 10: Environments & Tilemaps - worldbuilding, tilemap editors, parallax scrolling
+Week 11: Audio & Sound Effects - adding background music, sound effects, audio management
+Week 12: Visual Effects & Animations - particle effects, sprite animations, screen shake, polish techniques
+Week 13: UI/Menus - creating start menus, pause screens, settings HUD design
+Week 14: Data Persistence - saving/loading game progress, managing player data, high scores
+Week 15: Game Development Sprint 1 - put together in a game, peer code review
+Week 16: Game Development Sprint 2 - continued development, playtesting, bug fixes, feedback iteration
+Week 17: Playtesting & Iteration - formal playtesting sessions, gather user feedback, implement improvements
+Week 18: Submission Preparation & Showcase - final polish, documentation, game submission, project retrospective
